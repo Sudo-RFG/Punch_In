@@ -37,6 +37,7 @@
     {"id":{"name":"pi_game_starter","path":"objects/pi_game_starter/pi_game_starter.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"pi_Scripts","path":"scripts/pi_Scripts/pi_Scripts.yy",},},
+    {"id":{"name":"pi_spr_font","path":"sprites/pi_spr_font/pi_spr_font.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

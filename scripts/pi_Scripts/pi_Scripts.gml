@@ -17,6 +17,10 @@ Runs upon launch.
 #macro screen_width                                 256 //width of the game window
 #macro screen_height                                224 //height of the game window
 
+//Fonts
+#macro game_font									font_add_sprite_ext(pi_spr_font, "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ.'!-,:# (?",true,1);
+
+#endregion 
 
 #region Startup 
 /*
